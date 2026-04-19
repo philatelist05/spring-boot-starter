@@ -2,7 +2,6 @@
 
 spring init \
 	--bootVersion=4.0.5 \
-	--configurationFileFormat=yaml \
 	--language=java \
 	--build:gradle,dialect:kotlin,format:project \
 	--javaVersion=25 \
